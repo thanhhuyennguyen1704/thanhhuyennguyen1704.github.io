@@ -1,0 +1,139 @@
+body{
+	margin: 0;
+}
+#noidungtrangweb{
+	width: 1000px;
+	height: 1550px;
+	background-color: black;
+	margin: 0px 0px 0px 0px;
+}
+.logo{
+	width: 1000px;
+	height: 450px;
+	background: url("181127114455-41-50-sweets-travel-baklava.jpg") no-repeat;
+	background-size: 1000px auto;
+	padding: 10px 0 0 100px;
+	margin: 0;
+}
+.khung1{
+	width: 290px;
+	height: 370px;
+	background-color: white;
+	padding: 30px 30px 40px 30px
+}
+.clearfix{
+	clear: both;
+}
+.khung1>h1{
+	font: 20px bold Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+.khung1>p{
+	font: 12px bold Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+.button{
+	width: 150px;
+	height: 40px;
+	background-color: orange;
+	border: 4px orange;
+    border-radius: 10px;
+}
+.button>h1{
+	font: 28px bold;
+}
+.button>h1>a{
+	text-decoration: none;
+}
+.thanhtab{
+	width: 1000px;
+	height: 50px;
+	background-color: black;
+	padding-top:1px;
+
+}
+.thanhtab>ul>li{
+	display: list-item;
+}
+.thanhtab>ul {
+	list-style: none;
+}
+.thanhtab>ul>li{
+	display: inline;
+	margin-right: 100px;
+}
+.thanhtab>ul>li>a{
+	text-decoration: none;
+	color: white;
+}
+.noidungchinh1{
+	width: 1000px;
+	height: 495px;
+	background: url("4b96a4c0d56a2372243ff3cc890e66b8.jpg");
+	padding-top:1px;
+}
+.noidungchinh1>h1{
+	font: 30px bold Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	text-align: center;
+}
+.noidungchinh1>p{
+	text-align: center;
+}
+.noidungchinh1>img{
+	margin: 60px auto auto 60px;
+}
+.noidung1{
+	width: 470px;
+	height: 390px;
+	background-color: darkorange;
+	margin-left: 450px;
+}
+.text1{
+	width: 300px;
+	height: 350px;
+	text-align: left;
+	padding-top: 45px;
+	margin-left: 80px;
+	color: white
+}
+.text1>p{
+	font: 15px bold Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+.noidung2{
+	width: 470px;
+	height: 370px;
+	background-color: darkorange;
+	margin-left: 60px;
+	float: left;
+}
+.text2{
+	width: 300px;
+	height: 350px;
+	text-align: right;
+	padding-top: 45px;
+	margin-left: 85px;
+	color: white;
+}
+.text2>p{
+	font: 15px bold Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+.noidung2>img{
+	margin-left: 400px;
+}
+.noidungchinh2{
+	width: 1000px;
+	height: 475px;
+	background: url("4b96a4c0d56a2372243ff3cc890e66b8.jpg");
+	padding-top:1px;
+}
+.noidungchinh2>h1{
+	font: 30px bold Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	text-align: center;
+}
+.noidungchinh2>p{
+	text-align: center;
+}
+.noidungchinh2>img{
+	margin: 60px auto auto -60px;
+}
+.thanhtab>p{
+	font-size: 13px;
+}
