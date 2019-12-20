@@ -5,7 +5,7 @@ body{
 	width: 1000px;
 	height: 1550px;
 	background-color: black;
-	margin: 0px 0px 0px 0px;
+	margin: 0px auto 0px auto;
 }
 .logo{
 	width: 1000px;
